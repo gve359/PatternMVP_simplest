@@ -1,0 +1,8 @@
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\bin\Debug\MVP.exe.config
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\bin\Debug\MVP.exe
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\bin\Debug\MVP.pdb
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\obj\Debug\MVP.exe
+C:\work\for_github\Example_PatternMVP(simplest)\MVP\MVP\obj\Debug\MVP.pdb
+C:\work\For_github\Example_PatternMVP(simplest)\MVP\MVP\obj\Debug\Project.GUI.Form_InputNickNames.resources
